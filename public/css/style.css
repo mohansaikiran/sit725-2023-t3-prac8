@@ -1,0 +1,33 @@
+.navbar-size {
+    width: 95%;
+    margin: 0 auto;
+}
+.main-nav {
+    border-bottom: 1px solid black;
+    font-family: monospace;
+    background-color: #b97373;
+}
+.user-image-size {
+    height: 56px;
+    margin: 4px 0;
+}
+.main-body {
+    background-color: #d5a7a8;
+    color: white;
+    height: 100%;
+}
+.materialboxed-image {
+    margin: 0 auto;
+    height: 400px;
+}
+.click-me-button {
+    background-color: #be454a;
+    margin-top: 50px;
+}
+.card-desc-color {
+    color: #808080;
+}
+.flow-text {
+    font-size: 22px;
+    font-family: serif;
+}
